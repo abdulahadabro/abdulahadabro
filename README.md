@@ -23,8 +23,12 @@ Experienced professional with over 07 years in the AI Research Industry and
 Academia. Doctorate Degree with roles as Associate Professor, Assistant Professor,
 Research Assistant, and Lecturer at prestigious institutions. Awarded fully funded
 Turkey Government Scholarship for Ph.D. at Ege University. Member of IEEE and
-international research associations. Expertise in Artificial Intelligence, Deep Learning,
-Machine Learning, Computer Vision, and Natural Language Processing.
+international research associations. Expertise in 
+ - Artificial Intelligence
+ - Deep Learning,
+ - Machine Learning
+ - Computer Vision
+ - Natural Language Processing.
 
 ### :hammer_and_wrench: Languages and Tools :
 
