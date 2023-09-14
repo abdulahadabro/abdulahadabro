@@ -30,6 +30,10 @@ international research associations. Expertise in
  - Computer Vision
  - Natural Language Processing.
 
+📫 You can Contact me on Email: 
+ - abdulahadabro1@gmail.com
+ - abdulahadabro@hotmail.com
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>  
