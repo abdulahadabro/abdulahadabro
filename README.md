@@ -29,6 +29,11 @@ international research associations. Expertise in
  - Machine Learning
  - Computer Vision
  - Natural Language Processing.
+ - Cognitive Computing
+ - Neural Networks
+ - Robotics
+ - Signal Processing
+ - Fuzzy Logic
 
 📫 You can Contact me on Email: 
  - abdulahadabro1@gmail.com
