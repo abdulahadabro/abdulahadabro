@@ -1,5 +1,6 @@
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulahadabro&theme=nord_dark"> 
+<img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulahadabro&theme=nord_dark)
+"> 
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abdulahadabro/">
