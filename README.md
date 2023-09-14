@@ -10,7 +10,7 @@
   </a>
 </div>
 <div align="center">  
-<img src="https://komarev.com/ghpvc/?username=AyeshaIrshad1337&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=abdulahadabro&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -24,7 +24,7 @@ I am a Computer Scientist / Machine Learning Engineer <img src="https://media.gi
 - 👯 I’m looking to collaborate on projects related with AI
 - 🤔 I’m looking for help with my Work to Grow
 - 💬 Ask me about anything regarding my Work
-- 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/ayesha-irshad/))
+- 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/abdulahadabro/))
 
 - ⚡ Fun fact: I Dont't Give UP Easily
 
@@ -41,11 +41,11 @@ I am a Computer Scientist / Machine Learning Engineer <img src="https://media.gi
 
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulahadabro&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyeshaIrshad1337&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyeshaIrshad1337&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulahadabro&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulahadabro&theme=nord_dark)
 
 ## ⚡Recent GitHub Activity
-[![Ayesha github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyeshaIrshad1337&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abdul Ahad github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulahadabro&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
