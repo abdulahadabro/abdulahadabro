@@ -19,16 +19,12 @@
 I am a Computer Scientist / Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/QBvHYx6taXPwCHqTRR/giphy.gif?cid=ecf05e477rwbfukqxj1vya3n0n69gz1uro4fktmzwevhteb4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on Supervised Machince Learning
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on projects related with AI
-- 🤔 I’m looking for help with my Work to Grow
-- 💬 Ask me about anything regarding my Work
-- 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/abdulahadabro/))
-
-- ⚡ Fun fact: I Dont't Give UP Easily
-
----
+Experienced professional with over 07 years in the AI Research Industry and
+Academia. Doctorate Degree with roles as Associate Professor, Assistant Professor,
+Research Assistant, and Lecturer at prestigious institutions. Awarded fully funded
+Turkey Government Scholarship for Ph.D. at Ege University. Member of IEEE and
+international research associations. Expertise in Artificial Intelligence, Deep Learning,
+Machine Learning, Computer Vision, and Natural Language Processing.
 
 ### :hammer_and_wrench: Languages and Tools :
 
