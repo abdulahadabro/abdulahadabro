@@ -2,10 +2,10 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyeshaIrshad1337&theme=nord_dark"> 
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ayesha-irshad/">
+  <a href="https://www.linkedin.com/in//">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Ayeshairshad124">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -40,7 +40,7 @@ I am a Computer Scientist / Machine Learning Engineer <img src="https://media.gi
 ---
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyeshaIrshad1337&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulahadabro&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyeshaIrshad1337&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyeshaIrshad1337&theme=nord_dark)
 
